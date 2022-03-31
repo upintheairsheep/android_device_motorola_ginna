@@ -8,13 +8,14 @@ CPU     | Octa-core (4x1.8 GHz Kryo 250 Gold & 4x1.8 GHz Kryo 250 Silver)
 CHIPSET | Qualcomm SDM632 Snapdragon 632
 GPU     | Adreno 506
 Memory  | 2GB
-Shipped Android Version | 10 (Q)
+Shipped Android Version | 10 (Queen Cake)
 Storage | 32GB
 Battery | 3550 mAh
 Dimensions | 159.8 x 76.6 x 8.7 mm
 Display | 720 x 1520 pixels, 6.2" IPS LCD
 Rear Camera  | 13 MP (f/2.0) + 2 MP (f/2.2) (PDAF)
 Front Camera | 5 MP (f/2.0)
+Ports | microUSB 2.0, 3.5mm
 
 ![Device Picture](https://fdn2.gsmarena.com/vv/pics/motorola/motorola-moto-e-2020-1.jpg)
 
